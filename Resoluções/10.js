@@ -6,4 +6,4 @@ let cateto2 = 2;
 
 let hipotenusa = Math.sqrt((Math.pow(cateto1, 2) + Math.pow(cateto2,2)), 2);
 
-console.log("\nHipotenusa = " + hipotenusa +"\n");
+console.log("\nHipotenusa = " + hipotenusa.toFixed(1) +"\n");

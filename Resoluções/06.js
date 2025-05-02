@@ -6,4 +6,4 @@ let numero = 10;
 let antecessor = numero - 1;
 let sucessor = numero + 1;
 
-console.log("\nAntecessor = " + antecessor + "\nSucessor = " + sucessor + "\n");
+console.log("\nNúmero: " + numero + "\nAntecessor: " + antecessor + "\nSucessor: " + sucessor + "\n");

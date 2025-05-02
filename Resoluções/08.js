@@ -6,4 +6,4 @@ let celsius = 25;
 let fahrenheit = (celsius * 1.8) + 32;
 let kelvin = celsius + 273.15;
 
-console.log("\nFahrenheit = " + fahrenheit + "\nKelvin = " + kelvin + "\n");
+console.log("\nCelcius: " + celsius + "\nFahrenheit = " + fahrenheit + "\nKelvin = " + kelvin + "\n");

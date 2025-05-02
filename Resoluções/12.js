@@ -6,4 +6,4 @@ const Umapolegada = 2.54;
 let polegada = 15;
 let centimetros = polegada * Umapolegada;
 
-console.log("\nCentímetros = " + centimetros + "\n");
+console.log("\nPolegadas: " + polegada + "\nCentímetros: " + centimetros + "\n");

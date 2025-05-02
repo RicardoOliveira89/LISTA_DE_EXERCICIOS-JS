@@ -6,4 +6,4 @@ let anguloInterno2 = 65;
 
 let anguloInterno3 = 180 - (anguloInterno1 + anguloInterno2);
 
-console.log ("\nTerceiro ângulo: " + anguloInterno3 + "\n");
+console.log ("\nPrimeiro ângulo: " + anguloInterno1 + "\nSegundo ângulo: " + anguloInterno2 + "\nTerceiro ângulo: " + anguloInterno3 + "\n");

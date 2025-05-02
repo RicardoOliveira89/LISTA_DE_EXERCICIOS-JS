@@ -9,4 +9,4 @@ let largura = 20;
 
 let valorMercado = (comprimento * largura) * metroQuadrado;
 
-console.log("\nValor de Mercado do imóvel: R$" + valorMercado + "\n");
+console.log("\nValor de Mercado do imóvel: R$" + valorMercado.toFixed(2) + "\n");

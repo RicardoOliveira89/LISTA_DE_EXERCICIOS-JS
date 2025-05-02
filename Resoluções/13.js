@@ -8,4 +8,4 @@ let bytes = kilobyte * 1000;
 let megabyte = kilobyte / 1000;
 let gigabyte = kilobyte / 1000000;
 
-console.log("\nbits = " + bits + "\nbytes = " + bytes + "\nmegabyte = " + megabyte + "\ngigabyte = " + gigabyte + "\n");
+console.log("\nKilobyte: " + kilobyte + "\nbits: " + bits + "\nbytes: " + bytes + "\nmegabyte: " + megabyte + "\ngigabyte: " + gigabyte + "\n");

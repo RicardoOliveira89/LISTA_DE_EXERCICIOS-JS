@@ -3,7 +3,6 @@
 
 let palavra = "Ricardo";
 let k = 5;
-
 let kesima = palavra[k-1];
 
 console.log("\nK-ésima letra é " + kesima);

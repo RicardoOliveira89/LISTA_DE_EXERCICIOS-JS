@@ -5,4 +5,4 @@ let kmHoras = 160;
 
 let metrosSegundos = kmHoras / 3.6;
 
-console.log("\n" + metrosSegundos + "ms");
+console.log("\n" + kmHoras + " Km/h" + "\n" + metrosSegundos.toFixed(1) + " M/s");

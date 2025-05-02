@@ -3,13 +3,10 @@
 
 let termoInicial = 2;
 let razao = 3;
-
 let numeroTermos = 5;
+let progressao = 0;
 
-let progressao =0;
-
-for (let i = termoInicial; progressao < numeroTermos; i = termoInicial+=razao) {
-    progressao++;
+for (let i = termoInicial; progressao < numeroTermos; i = termoInicial += razao) {
+    progressao ++;
     console.log(i);   
 }
-

@@ -3,8 +3,8 @@
 // e calcule o custo final do projeto.
 
 let area = 115;
-let valorMetroQuadrados = 50;
+let valorMetroQuadrados = 150;
 
 let valorProjeto = area * valorMetroQuadrados;
 
-console.log("\nCusto final do Projeto arquitetônico: R$ " + valorProjeto +"\n");
+console.log("\nCusto final do Projeto arquitetônico: R$ " + valorProjeto.toFixed(2) +"\n");

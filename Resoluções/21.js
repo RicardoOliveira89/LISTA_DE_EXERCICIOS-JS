@@ -6,4 +6,4 @@ let margemLucroFabricante = 25;
 
 let precoVenda = (((precoProducao * margemLucroFabricante) / 100) + precoProducao);
 
-console.log(precoVenda);
+console.log("\nPreço de produção: R$ " + precoProducao.toFixed(2) + "\nMargem de lucro: " + margemLucroFabricante + " %" + "\nPreço de venda do produto: R$ " + precoVenda.toFixed(2));

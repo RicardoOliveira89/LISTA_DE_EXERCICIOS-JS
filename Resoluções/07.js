@@ -6,4 +6,4 @@ let altura = 6;
 
 let area = (base * altura) / 2;
 
-console.log("Área = " + area);
+console.log("\nÁrea = " + area);

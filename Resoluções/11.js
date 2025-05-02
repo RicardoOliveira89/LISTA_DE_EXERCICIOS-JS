@@ -2,7 +2,6 @@
 // e calcule o valor informado pelo usuário em dólares.
 
 let real = 100;
+let dolar = real / 5.66;
 
-let dolar = real / 5.63;
-
-console.log("\nValor em dólar = U$ " + dolar + "\n");
+console.log("\nMoeda Real: " + " R$ "+ real.toFixed(2) + "\nMoeda Dólar Americano: " + " US$ "+ dolar.toFixed(2));

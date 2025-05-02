@@ -4,7 +4,7 @@
     dupla e o peso e a altura média de todos os jogadores do torneio.
 */
 
-//Lendo altura dos atletas
+//Altura dos atletas
 
 let alturaAtleta1TimeA = 1.80;
 let alturaAtleta2TimeA = 1.75;
@@ -18,7 +18,7 @@ let alturaAtleta2TimeC = 1.78;
 let alturaAtleta1TimeD = 1.85;
 let alturaAtleta2TimeD = 1.79;
 
-// Lendo peso dos atletas 
+// Peso dos atletas 
 
 let pesoAtleta1TimeA = 80;
 let pesoAtleta2TimeA = 78;

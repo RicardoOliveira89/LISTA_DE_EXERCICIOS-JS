@@ -9,4 +9,4 @@ let multiplo;
 for (let i = numA; i < numB; i+=3) {
     multiplo = i;
 }
-console.log(multiplo);
+console.log("\nPrimeiro número: " + numA + "\nSegundo número: " + numB + "\nO maior múltiplo de " + numA + " que é menor ou igual a " + numB + " é o número " + multiplo);

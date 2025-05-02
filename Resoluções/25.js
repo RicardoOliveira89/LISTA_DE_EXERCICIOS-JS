@@ -8,10 +8,10 @@
     5 X 2 = 10
     */
 
-let number = 3;
+let numero = 3;
 let resultado;
 
 for(let i = 0; i < 11; i++) {
-    resultado = i * number;
-    console.log(i + " x " + number + " = " + resultado);
+    resultado = i * numero;
+    console.log(i + " x " + numero + " = " + resultado);
 }
